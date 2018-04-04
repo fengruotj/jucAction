@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/jucAction.iml" filepath="$PROJECT_DIR$/jucAction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jucModule/jucModule.iml" filepath="$PROJECT_DIR$/jucModule/jucModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadCommunication/threadCommunication.iml" filepath="$PROJECT_DIR$/threadCommunication/threadCommunication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadSafe/threadSafe.iml" filepath="$PROJECT_DIR$/threadSafe/threadSafe.iml" />
     </modules>
   </component>
 </project>

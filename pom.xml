@@ -5,7 +5,12 @@
   <groupId>com.basic.juc</groupId>
   <artifactId>jucAction</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <modules>
+    <module>jucModule</module>
+    <module>threadSafe</module>
+      <module>threadCommunication</module>
+  </modules>
+  <packaging>pom</packaging>
 
   <name>jucAction</name>
   <url>http://maven.apache.org</url>
