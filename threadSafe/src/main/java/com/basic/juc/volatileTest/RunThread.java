@@ -15,7 +15,7 @@ public class RunThread extends Thread {
 
         Thread.sleep(3000);
         rt.setRunning(false);
-        System.out.println("isRunning的值 被设置为false");
+        System.out.println("isRunning的值 被设置为fsalse");
         Thread.sleep(1000);
         System.out.println(rt.isRunning);
     }

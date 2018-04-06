@@ -2,6 +2,9 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SynchronizeContainer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/concurrentContainer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/desginModel" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jucModule" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/threadCommunication" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/threadSafe" charset="UTF-8" />

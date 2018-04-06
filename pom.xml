@@ -9,6 +9,9 @@
     <module>jucModule</module>
     <module>threadSafe</module>
       <module>threadCommunication</module>
+      <module>SynchronizeContainer</module>
+      <module>concurrentContainer</module>
+      <module>desginModel</module>
   </modules>
   <packaging>pom</packaging>
 

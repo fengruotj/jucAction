@@ -6,14 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="concurrentContainer" />
+        <module name="desginModel" />
         <module name="jucModule" />
+        <module name="SynchronizeContainer" />
         <module name="threadCommunication" />
         <module name="threadSafe" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="concurrentContainer" target="1.8" />
+      <module name="desginModel" target="1.8" />
       <module name="jucAction" target="1.8" />
       <module name="jucModule" target="1.8" />
+      <module name="SynchronizeContainer" target="1.8" />
       <module name="threadCommunication" target="1.8" />
       <module name="threadSafe" target="1.8" />
     </bytecodeTargetLevel>

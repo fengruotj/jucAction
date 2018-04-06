@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/SynchronizeContainer/SynchronizeContainer.iml" filepath="$PROJECT_DIR$/SynchronizeContainer/SynchronizeContainer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/concurrentContainer/concurrentContainer.iml" filepath="$PROJECT_DIR$/concurrentContainer/concurrentContainer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desginModel/desginModel.iml" filepath="$PROJECT_DIR$/desginModel/desginModel.iml" />
       <module fileurl="file://$PROJECT_DIR$/jucAction.iml" filepath="$PROJECT_DIR$/jucAction.iml" />
       <module fileurl="file://$PROJECT_DIR$/jucModule/jucModule.iml" filepath="$PROJECT_DIR$/jucModule/jucModule.iml" />
       <module fileurl="file://$PROJECT_DIR$/threadCommunication/threadCommunication.iml" filepath="$PROJECT_DIR$/threadCommunication/threadCommunication.iml" />
