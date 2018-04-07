@@ -34,6 +34,6 @@ public class Main {
         p2.stop();
         p3.stop();
 
-        executorService.shutdown();
+        executorService.shutdownNow();
     }
 }

@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/jucModule/jucModule.iml" filepath="$PROJECT_DIR$/jucModule/jucModule.iml" />
       <module fileurl="file://$PROJECT_DIR$/threadCommunication/threadCommunication.iml" filepath="$PROJECT_DIR$/threadCommunication/threadCommunication.iml" />
       <module fileurl="file://$PROJECT_DIR$/threadSafe/threadSafe.iml" filepath="$PROJECT_DIR$/threadSafe/threadSafe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadpool/threadpool.iml" filepath="$PROJECT_DIR$/threadpool/threadpool.iml" />
     </modules>
   </component>
 </project>

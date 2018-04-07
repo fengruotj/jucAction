@@ -12,6 +12,8 @@
       <module>SynchronizeContainer</module>
       <module>concurrentContainer</module>
       <module>desginModel</module>
+      <module>threadpool</module>
+    <module>threadpool</module>
   </modules>
   <packaging>pom</packaging>
 
